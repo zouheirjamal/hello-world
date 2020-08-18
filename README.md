@@ -1,5 +1,6 @@
 # hello-world
 first things first...
         i got this cabin fever!
-        wassup?!
+        wassup?
 should i?
+i'm stacking money to the c...
