@@ -1,3 +1,3 @@
 # hello-world
-first things first...
-        
+
+The 101s of all things development!
